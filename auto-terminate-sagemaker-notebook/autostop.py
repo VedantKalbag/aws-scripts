@@ -17,7 +17,7 @@ import getopt, sys
 import urllib3
 import boto3
 import json
-print("Running sutostop script")
+print("Running autostop script")
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
